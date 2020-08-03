@@ -1,0 +1,77 @@
+
+		.jumbotron{
+			padding-top:100px;
+			text-align:center;
+			background-image: url(jumbotron.jpg);
+			color:white;
+			font-family:"Bradley Hand";
+			font-style:oblique;
+			}
+			.logo{
+			
+			float:left;
+			padding-top:none;
+			}
+			.logo img{
+				border-radius:50%;
+				}
+			h1{
+			position:relative;
+			}
+			
+			.card-title{
+				
+				color:#009999;
+				font-size:30px;
+				font-family:"Impact", Charcoal, sans-serif;
+				
+			}
+			.card-text{
+				text-align:left;
+				font-size:20px;
+				color:#1a000d;
+				
+			}
+			.card-deck{
+			padding-left:15px;
+			padding-right:15px;
+			
+			}
+			.selfloveadditional{
+				color:black;
+				background-color:#ffcccc
+			}
+			.motivationadditional{
+				color:white;
+				background-color:#565356;
+				}
+				
+			.positivityadditional{
+				color:black;
+				background-color:#DDB779;
+				}
+			.card{
+				text-align:center;
+			
+			}
+			.button1{
+				background-color:#009999;
+				}
+		
+			.page-footer{
+				background-color:#22201D;
+				
+				color:white;
+				
+				}
+			.contact{
+				color:#84E995;
+			}
+			.logofooter{
+				border-radius:50%;
+			}
+			
+			.selflovecards{
+			margin-top:75px;}
+			
+			
